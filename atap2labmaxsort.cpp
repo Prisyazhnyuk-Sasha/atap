@@ -2,8 +2,6 @@
 
 using namespace std;
 
-void choicesSort(int*, int); 
-
 int main(int argc, char* argv[])
 {
 	int size_array; // довжина масива
